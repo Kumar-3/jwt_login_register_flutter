@@ -1,0 +1,5 @@
+{
+    "cmake.configureOnOpen": true,
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+}
